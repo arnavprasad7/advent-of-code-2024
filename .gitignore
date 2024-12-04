@@ -1,0 +1,20 @@
+# Python temp files
+*__pycache__
+*.DS_Store
+**/.mypy_cache
+
+# Pytest
+**/.pytest_cache
+
+# Pyenv
+.python-version
+
+# Environment Files
+.venv
+.env 
+
+# private keys
+*.p8
+
+# IDE Files
+.vscode
