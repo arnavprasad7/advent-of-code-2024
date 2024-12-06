@@ -10,6 +10,8 @@ def load_data() -> str:
 
 def part1() -> None:
     ic("part1")
+    data = load_data()
+    ic(data)
 
 
 def part2() -> None:
